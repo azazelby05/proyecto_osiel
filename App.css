@@ -1,0 +1,21 @@
+:root {
+  --primary-color: rgb(0, 123, 255);
+  --secondary-color: rgb(108, 117, 125);
+  --accent-color: rgb(40, 167, 69);
+
+  --texto-pequño: 0.8rem;
+  --texto-mediano: 1rem;
+  --texto-grande: 1.2rem;
+
+  --color-primario: #007bff;
+  --color-secundario: #a3a3a3;
+  --color-accento: #e2190b;
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--color-fondo);
+  margin: 10rem;
+  
+}
